@@ -1,0 +1,7 @@
+[NetClientHandler] - processReadPackets called
+[EaglerAdapterImpl2] - Cannot read packet!
+[WebsocketNetworkManager] - readChunks is empty!
+[NetClientHandler] - processReadPackets called
+[EaglerAdapterImpl2] - Cannot read packet!
+[WebsocketNetworkManager] - readChunks is empty!
+[EaglerAdapterImpl2] - Writing packet
