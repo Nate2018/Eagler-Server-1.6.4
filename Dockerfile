@@ -1,7 +1,7 @@
 FROM ubuntu:20.04
 LABEL maintainer="Catfoolyou"
 USER root
-COPY run.sh /run.sh
+COPY main.sh /main.sh
 COPY . ./
-RUN chmod +x /run.sh
-CMD ["/run.sh"]
+RUN chmod +x /main.sh
+CMD ["/main.sh"]
